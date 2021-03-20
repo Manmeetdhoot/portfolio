@@ -1,7 +1,7 @@
 
 
 .starttext {
-    font-size: 40px;
+    font-size: 35px;
     position: absolute;
     top: 80%;
     width: 100%;
@@ -27,5 +27,5 @@
 
 .responsive-headline {
     color:deeppink;
-    font-size: 33px;
+    font-size: 25px;
 }

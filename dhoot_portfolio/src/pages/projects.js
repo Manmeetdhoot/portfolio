@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Project from "../components/project.js";
-import { projectData } from "../projectData";
+import { projectData } from "../projectData.js";
 import "./projects.css";
 
 export default class Projects extends Component {
